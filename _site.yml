@@ -1,10 +1,12 @@
 name: "PAM-website"
 output_dir: "."
 navbar:
-  title: "Pierre's Website"
+  title: "Pierre Maudoux"
   left:
     - text: "Home"
       href: index.html
+    - text: "Projects"
+      href: projects.html
     - text: "About Me"
       href: about.html
 output:
