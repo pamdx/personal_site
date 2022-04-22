@@ -3,3 +3,11 @@ img {
   display: block;
   margin: 0 auto;
 }
+
+body {
+  padding-top:0px
+}
+
+.navbar{
+  visibility: hidden
+}
