@@ -16,8 +16,8 @@ I've dedicated the first years of my young career working for international inst
 
 ## CV
 
-- [HTML](cv.html)
-- [PDF]()
+- [HTML](https://raw.githubusercontent.com/pamdx/cv/main/cv.html)
+- [PDF](https://github.com/pamdx/cv/raw/main/cv.pdf)
 
 ## Portfolio
 
