@@ -16,16 +16,19 @@ I've dedicated the first years of my young career working for international inst
 
 ## CV
 
-- [HTML](https://raw.githubusercontent.com/pamdx/cv/main/cv.html)
-- [PDF](https://github.com/pamdx/cv/raw/main/cv.pdf)
+- [HTML](cv.html): best for viewing online.
+- [PDF](https://github.com/pamdx/cv/raw/main/cv.pdf): best for printing.
 
 ## Portfolio
 
+Coming soon.
 
 
 ## Contact
 
 **email:** pierreami.maudoux (at) gmail
+
+**LinkedIn** <a href="https://www.linkedin.com/in/pamaudoux/">pamaudoux </a>
 
 **twitter:** <a href="https://twitter.com/pierremdx">pierremdx </a>
    
