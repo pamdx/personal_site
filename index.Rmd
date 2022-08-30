@@ -21,9 +21,9 @@ I've dedicated the first years of my young career working for international inst
 
 ## Portfolio
 
-- [Visualization](pamdex.shinyapps.io/fishstat_trade_viz/) of FishStat Trade data ([GitHub source](https://github.com/pamdx/fishstat_trade_viz))
+- <a href="https://pamdex.shinyapps.io/fishstat_trade_viz">Visualization</a> of FishStat Trade data (<a href="https://github.com/pamdx/fishstat_trade_viz">GitHub source</a>)
 
-[![Click to check it out!](https://user-images.githubusercontent.com/59026485/187459824-b0ff3b42-0937-4f7e-8702-3d770b2f0301.png){width=500}](pamdex.shinyapps.io/fishstat_trade_viz/)
+<a href="https://pamdex.shinyapps.io/fishstat_trade_viz">![Click to check it out!](https://user-images.githubusercontent.com/59026485/187459824-b0ff3b42-0937-4f7e-8702-3d770b2f0301.png){width=500}</a>
 
 - More coming soon.
 
