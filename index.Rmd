@@ -23,7 +23,9 @@ I've dedicated the first years of my young career working for international inst
 
 - [Visualization of FishStat Trade data](pamdex.shinyapps.io/fishstat_trade_viz/)
 
-<img src="https://user-images.githubusercontent.com/59026485/187459824-b0ff3b42-0937-4f7e-8702-3d770b2f0301.png" width="500" height="500">
+<a href="pamdex.shinyapps.io/fishstat_trade_viz/">
+  <img src="https://user-images.githubusercontent.com/59026485/187459824-b0ff3b42-0937-4f7e-8702-3d770b2f0301.png"         width="500" height="500">
+</a>
 
 [(GitHub source)](https://github.com/pamdx/fishstat_trade_viz)
 
