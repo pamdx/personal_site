@@ -1,4 +1,4 @@
-# Personal website repository
+# Personal website repo
 
 This is where I build my personal website to introduce myself to the world and present my work.
 
