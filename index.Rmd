@@ -18,6 +18,8 @@ I've dedicated the first years of my young career working for international inst
 
 ## CV
 
+Below you can view my curriculum vitae, either directly in your browser or as a PDF.
+
 - <a href="https://pamdx.github.io/cv/cv.html" target="_blank">HTML</a>: best for viewing online.
 - [PDF](https://github.com/pamdx/cv/raw/main/cv.pdf): best for printing.
 
@@ -33,7 +35,7 @@ I've dedicated the first years of my young career working for international inst
 
 - <a href="https://pamdx.github.io/personal_site/documents/UHIE.pdf" target="_blank">GIS analysis</a> of the urban heat island effect in Brussels based on multispectral satellite imagery
 
-<a href="https://pamdx.github.io/personal_site/documents/UHIE.pdf" target="_blank">![Click to check it out!](https://user-images.githubusercontent.com/59026485/204811549-899c85ce-7641-4f8b-abb7-e9bafe2bc4a4.png){width=500}</a>
+<a href="https://pamdx.github.io/personal_site/documents/UHIE.pdf" target="_blank">![Click to check it out!](https://user-images.githubusercontent.com/59026485/204821929-1d502e9f-fabc-40ef-86b9-7cadb3255300.png){width=500}</a>
 
 - More coming soon.
 
