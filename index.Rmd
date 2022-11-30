@@ -18,22 +18,22 @@ I've dedicated the first years of my young career working for international inst
 
 ## CV
 
-- [HTML](cv.html): best for viewing online.
+- <a href="https://htmlpreview.github.io/?https://github.com/pamdx/cv/blob/main/cv.html" >target="_blank">HTML</a>: best for viewing online.
 - [PDF](https://github.com/pamdx/cv/raw/main/cv.pdf): best for printing.
 
 ## Portfolio
 
-- <a href="https://pamdex.shinyapps.io/fishstat_trade_viz">Interactive visualization</a> of FAO's fisheries and aquaculture international trade data (<a href="https://github.com/pamdx/fishstat_trade_viz">GitHub source</a>)
+- <a href="https://pamdex.shinyapps.io/fishstat_trade_viz" target="_blank">Interactive visualization</a> of FAO's fisheries and aquaculture international trade data (<a href="https://github.com/pamdx/fishstat_trade_viz" target="_blank">GitHub source</a>)
 
-<a href="https://pamdex.shinyapps.io/fishstat_trade_viz">![Click to check it out!](https://user-images.githubusercontent.com/59026485/187459824-b0ff3b42-0937-4f7e-8702-3d770b2f0301.png){width=500}</a>
+<a href="https://pamdex.shinyapps.io/fishstat_trade_viz" target="_blank">![Click to check it out!](https://user-images.githubusercontent.com/59026485/187459824-b0ff3b42-0937-4f7e-8702-3d770b2f0301.png){width=500}</a>
 
-- <a href="https://flourish-user-preview.com/11618730/297ssfVT8suqPqg8XFQeb2JLfzgZi4NWZWuYswoCyNq60NmJZnfvlmIdRxC8sFGL/">Animated visualization</a> of the history of the world's top capture fishery producers
+- <a href="https://flourish-user-preview.com/11618730/297ssfVT8suqPqg8XFQeb2JLfzgZi4NWZWuYswoCyNq60NmJZnfvlmIdRxC8sFGL/" target="_blank">Animated visualization</a> of the history of the world's top capture fishery producers
 
-<a href="https://flourish-user-preview.com/11618730/297ssfVT8suqPqg8XFQeb2JLfzgZi4NWZWuYswoCyNq60NmJZnfvlmIdRxC8sFGL/">![Click to check it out!](https://user-images.githubusercontent.com/59026485/204809496-171d0076-4e78-4500-b950-2489e82f1ec3.png){width=500}</a>
+<a href="https://flourish-user-preview.com/11618730/297ssfVT8suqPqg8XFQeb2JLfzgZi4NWZWuYswoCyNq60NmJZnfvlmIdRxC8sFGL/" target="_blank">![Click to check it out!](https://user-images.githubusercontent.com/59026485/204809496-171d0076-4e78-4500-b950-2489e82f1ec3.png){width=500}</a>
 
-- <a href="https://pamdx.github.io/personal_site/documents/UHIE.pdf">GIS analysis</a> of the urban heat island effect in Brussels based on multispectral satellite imagery
+- <a href="https://pamdx.github.io/personal_site/documents/UHIE.pdf" target="_blank">GIS analysis</a> of the urban heat island effect in Brussels based on multispectral satellite imagery
 
-<a href="https://pamdx.github.io/personal_site/documents/UHIE.pdf">![Click to check it out!](https://user-images.githubusercontent.com/59026485/204811549-899c85ce-7641-4f8b-abb7-e9bafe2bc4a4.png){width=500}</a>
+<a href="https://pamdx.github.io/personal_site/documents/UHIE.pdf" target="_blank">![Click to check it out!](https://user-images.githubusercontent.com/59026485/204811549-899c85ce-7641-4f8b-abb7-e9bafe2bc4a4.png){width=500}</a>
 
 - More coming soon.
 
