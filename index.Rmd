@@ -21,7 +21,7 @@ I've dedicated the first years of my young career working for international inst
 Below you can view my curriculum vitae, either directly in your browser or as a PDF.
 
 - <a href="https://pamdx.github.io/cv/cv.html" target="_blank">HTML</a>: best for viewing online.
-- [PDF](https://github.com/pamdx/cv/raw/main/cv.pdf): best for printing.
+- <a href="https://pamdx.github.io/cv/cv.pdf" target="_blank">PDF</a>: best for printing.
 
 ## Portfolio
 
