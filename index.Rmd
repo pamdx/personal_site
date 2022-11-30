@@ -27,9 +27,9 @@ I've dedicated the first years of my young career working for international inst
 
 <a href="https://pamdex.shinyapps.io/fishstat_trade_viz">![Click to check it out!](https://user-images.githubusercontent.com/59026485/187459824-b0ff3b42-0937-4f7e-8702-3d770b2f0301.png){width=500}</a>
 
-- <a href="https://flourish-user-preview.com/11618730/297ssfVT8suqPqg8XFQeb2JLfzgZi4NWZWuYswoCyNq60NmJZnfvlmIdRxC8sFGL/">Animated visualization</a> of the history of the world's top capture producers
+- <a href="https://flourish-user-preview.com/11618730/297ssfVT8suqPqg8XFQeb2JLfzgZi4NWZWuYswoCyNq60NmJZnfvlmIdRxC8sFGL/">Animated visualization</a> of the history of the world's top capture fishery producers
 
-<a href="https://flourish-user-preview.com/11618730/297ssfVT8suqPqg8XFQeb2JLfzgZi4NWZWuYswoCyNq60NmJZnfvlmIdRxC8sFGL/">![Click to check it out!](https://user-images.githubusercontent.com/59026485/204806842-1fdf0518-1b5f-4d6e-972d-3cdf93ad816f.png){width=500}</a>
+<a href="https://flourish-user-preview.com/11618730/297ssfVT8suqPqg8XFQeb2JLfzgZi4NWZWuYswoCyNq60NmJZnfvlmIdRxC8sFGL/">![Click to check it out!](https://user-images.githubusercontent.com/59026485/204809496-171d0076-4e78-4500-b950-2489e82f1ec3.png){width=500}</a>
 
 - More coming soon.
 
