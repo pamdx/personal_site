@@ -1,12 +1,5 @@
 name: "PAM-website"
 output_dir: "."
-navbar:
-  title: "Pierre Maudoux"
-  left:
-    - text: "Home"
-      href: index.html
-    - text: "CV"
-      href: cv.html
 output:
   html_document:
     theme: flatly
