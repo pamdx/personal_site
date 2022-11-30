@@ -18,7 +18,7 @@ I've dedicated the first years of my young career working for international inst
 
 ## CV
 
-- <a href="https://htmlpreview.github.io/?https://github.com/pamdx/cv/blob/main/cv.html" >target="_blank">HTML</a>: best for viewing online.
+- <a href="https://htmlpreview.github.io/?https://github.com/pamdx/cv/blob/main/cv.html" target="_blank">HTML</a>: best for viewing online.
 - [PDF](https://github.com/pamdx/cv/raw/main/cv.pdf): best for printing.
 
 ## Portfolio
