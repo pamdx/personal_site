@@ -29,7 +29,7 @@ Below you can view my curriculum vitae, either directly in your browser or as a 
 
 <a href="https://pamdex.shinyapps.io/fishstat_trade_viz" target="_blank">![Click to check it out!](https://user-images.githubusercontent.com/59026485/187459824-b0ff3b42-0937-4f7e-8702-3d770b2f0301.png){width=500}</a>
 
-- <a href="https://flourish-user-preview.com/11976626/U6Tv2t_mNfMwRmagEghOX2OXzVVA6MeT1u6SXcg_hEu7xWG8BRywDgFz7TrNygzV/" target="_blank">Animated visualization</a> of the evolution of fish consumption patterns over recent decades
+- <a href="https://flourish-user-preview.com/11976626/U6Tv2t_mNfMwRmagEghOX2OXzVVA6MeT1u6SXcg_hEu7xWG8BRywDgFz7TrNygzV/" target="_blank">Animated visualization</a> of the evolution of global fish consumption patterns over recent decades
 
 <a href="https://flourish-user-preview.com/11976626/U6Tv2t_mNfMwRmagEghOX2OXzVVA6MeT1u6SXcg_hEu7xWG8BRywDgFz7TrNygzV/" target="_blank">![Click to check it out!](https://user-images.githubusercontent.com/59026485/205102445-03fa3c9e-b701-4cb7-b895-30095c386da6.png){width=500}</a>
 
