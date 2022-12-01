@@ -33,6 +33,10 @@ Below you can view my curriculum vitae, either directly in your browser or as a 
 
 <a href="https://flourish-user-preview.com/11976626/U6Tv2t_mNfMwRmagEghOX2OXzVVA6MeT1u6SXcg_hEu7xWG8BRywDgFz7TrNygzV/" target="_blank">![Click to check it out!](https://user-images.githubusercontent.com/59026485/205102445-03fa3c9e-b701-4cb7-b895-30095c386da6.png){width=500}</a>
 
+- <a href="https://flourish-user-preview.com/11618730/297ssfVT8suqPqg8XFQeb2JLfzgZi4NWZWuYswoCyNq60NmJZnfvlmIdRxC8sFGL/" target="_blank">Animated visualization</a> of the history of the world's top capture fishery producers
+
+<a href="https://flourish-user-preview.com/11618730/297ssfVT8suqPqg8XFQeb2JLfzgZi4NWZWuYswoCyNq60NmJZnfvlmIdRxC8sFGL/" target="_blank">![Click to check it out!](https://user-images.githubusercontent.com/59026485/204809496-171d0076-4e78-4500-b950-2489e82f1ec3.png){width=500}</a>
+
 - <a href="https://pamdx.github.io/personal_site/documents/UHIE.pdf" target="_blank">GIS analysis</a> of the urban heat island effect in Brussels based on multispectral satellite imagery
 
 <a href="https://pamdx.github.io/personal_site/documents/UHIE.pdf" target="_blank">![Click to check it out!](https://user-images.githubusercontent.com/59026485/204821929-1d502e9f-fabc-40ef-86b9-7cadb3255300.png){width=500}</a>
