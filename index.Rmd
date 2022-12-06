@@ -31,9 +31,9 @@ Below, you'll find some examples of my work in data visualization, R programming
 
 <a href="https://pamdex.shinyapps.io/fishstat_trade_viz" target="_blank">![Click to check it out!](https://user-images.githubusercontent.com/59026485/187459824-b0ff3b42-0937-4f7e-8702-3d770b2f0301.png){width=500}</a>
 
-- <a href="https://flourish-user-preview.com/12037457/1EwKZ_vhVN_C_3N7kfnYuExX0xzO0Wwl0E3QGHP0WdsWfI549beATkDk2NUXgwVS/" target="_blank">Animated visualization</a> of the evolution of global fish consumption patterns over recent decades
+- <a href="https://flourish-user-preview.com/12077046/iW2btaKlmBh4pejehwEi-6WLJks0XLBJHd7v30EC6BvgOBXGh09UljBPKbhcl4xl/" target="_blank">Animated visualization</a> of the evolution of global fish consumption patterns over recent decades
 
-<a href="https://flourish-user-preview.com/12037457/1EwKZ_vhVN_C_3N7kfnYuExX0xzO0Wwl0E3QGHP0WdsWfI549beATkDk2NUXgwVS/" target="_blank">![Click to check it out!](https://user-images.githubusercontent.com/59026485/205102445-03fa3c9e-b701-4cb7-b895-30095c386da6.png){width=500}</a>
+<a href="https://flourish-user-preview.com/12077046/iW2btaKlmBh4pejehwEi-6WLJks0XLBJHd7v30EC6BvgOBXGh09UljBPKbhcl4xl/" target="_blank">![Click to check it out!](https://user-images.githubusercontent.com/59026485/205102445-03fa3c9e-b701-4cb7-b895-30095c386da6.png){width=500}</a>
 
 - <a href="https://flourish-user-preview.com/11618730/297ssfVT8suqPqg8XFQeb2JLfzgZi4NWZWuYswoCyNq60NmJZnfvlmIdRxC8sFGL/" target="_blank">Animated visualization</a> of the history of the world's top capture fishery producers
 
