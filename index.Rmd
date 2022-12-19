@@ -10,22 +10,22 @@ output:
 
 ## About
 
-Hi, I'm Pierre. I'm a Belgian environmental economist with a passion for sustainability, data science and everything in between!
+Hello, my name is Pierre. I am a Belgian environmental economist with a passion for sustainability, data science and everything in between.
 
 <!-- ![](https://avatars.githubusercontent.com/u/59026485?v=4){width=250} -->
 
-I've dedicated the first years of my young career working for international institutions (EIB, FAO) and improving my data analysis and visualization skills, among other things. Check out the Portfolio section of this site if you want to check out some of my stuff.
+I have dedicated the first years of my young career working for international institutions (EIB, FAO) and improving my data analysis and visualization skills, among other things. Please see the Portfolio section of this website if you want to have a look at some of my projects.
 
 ## CV
 
-Below you can view my curriculum vitae, either directly in your browser or as a PDF.
+Here, you can view my curriculum vitae, either directly in your browser or as a PDF.
 
 - <a href="https://pamdx.github.io/cv/cv.html" target="_blank">HTML</a>: best for viewing online.
 - <a href="https://pamdx.github.io/cv/cv.pdf" target="_blank">PDF</a>: best for printing.
 
 ## Portfolio
 
-Below, you'll find some examples of my work in data visualization, R programming, GIS analysis and more.
+Below, you will find some examples of my work in data visualization, R programming, GIS analysis and more.
 
 - <a href="https://pamdex.shinyapps.io/fishstat_trade_viz" target="_blank">Interactive visualization</a> of FAO's fisheries and aquaculture international trade data (<a href="https://github.com/pamdx/fishstat_trade_viz" target="_blank">GitHub source</a>)
 
