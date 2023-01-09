@@ -35,13 +35,17 @@ Below, you will find some examples of my work in data visualization, R programmi
 
 <a href="https://flourish-user-preview.com/12077046/iW2btaKlmBh4pejehwEi-6WLJks0XLBJHd7v30EC6BvgOBXGh09UljBPKbhcl4xl/" target="_blank">![Click to check it out!](https://user-images.githubusercontent.com/59026485/205102445-03fa3c9e-b701-4cb7-b895-30095c386da6.png){width=500}</a>
 
-- <a href="https://flourish-user-preview.com/11618730/297ssfVT8suqPqg8XFQeb2JLfzgZi4NWZWuYswoCyNq60NmJZnfvlmIdRxC8sFGL/" target="_blank">Animated visualization</a> of the history of the world's top capture fishery producers
+- <a href="https://flourish-user-preview.com/11618730/297ssfVT8suqPqg8XFQeb2JLfzgZi4NWZWuYswoCyNq60NmJZnfvlmIdRxC8sFGL/" target="_blank">Animated visualization</a> of the history of the world's top capture fishery producers (featured in ICES ASC 2019 <a href="https://youtu.be/7Od1UhPvwjg?t=614" target="_blank">keynote presentation</a>, FAO's International Symposium on Fisheries Sustainability <a href="https://www.fao.org/about/meetings/sustainable-fisheries-symposium/presentations/fr/" target="_blank">keynote presentation</a>)
 
 <a href="https://flourish-user-preview.com/11618730/297ssfVT8suqPqg8XFQeb2JLfzgZi4NWZWuYswoCyNq60NmJZnfvlmIdRxC8sFGL/" target="_blank">![Click to check it out!](https://user-images.githubusercontent.com/59026485/204809496-171d0076-4e78-4500-b950-2489e82f1ec3.png){width=500}</a>
 
 - <a href="https://pamdx.github.io/personal_site/documents/UHIE.pdf" target="_blank">GIS analysis</a> of the urban heat island effect in Brussels based on multispectral satellite imagery
 
 <a href="https://pamdx.github.io/personal_site/documents/UHIE.pdf" target="_blank">![Click to check it out!](https://user-images.githubusercontent.com/59026485/204821929-1d502e9f-fabc-40ef-86b9-7cadb3255300.png){width=500}</a>
+
+- <a href="https://pamdx.github.io/personal_site/documents/cc_study.pdf" target="_blank">Map</a> showing the results of a study of climate change's effects on fisheries sustainability (<a href="https://www.gcca.eu/multimedia/gcca-cop25-adaptation-and-mitigation-strategies-changing-oceans" target="_blank">presented</a> at COP25)
+
+<a href="https://pamdx.github.io/personal_site/documents/cc_study.pdf" target="_blank">![Click to check it out!](https://user-images.githubusercontent.com/59026485/211336002-ded10611-e6c7-40d4-bdee-a6baebb29d76.png){width=500}</a>
 
 - More coming soon.
 
