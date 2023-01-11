@@ -27,27 +27,91 @@ Here, you can view my curriculum vitae, either directly in your browser or as a 
 
 Below, you will find some examples of my work in data visualization, R programming, GIS analysis and more.
 
-- <a href="https://pamdex.shinyapps.io/fishstat_trade_viz" target="_blank">Interactive visualization</a> of FAO's fisheries and aquaculture international trade data (<a href="https://github.com/pamdx/fishstat_trade_viz" target="_blank">GitHub source</a>)
+:::: {style="display: flex; flex-flow: row wrap;"}
+<!-- TRADE VIZ -->
 
-<a href="https://pamdex.shinyapps.io/fishstat_trade_viz" target="_blank">![Click to check it out!](https://user-images.githubusercontent.com/59026485/187459824-b0ff3b42-0937-4f7e-8702-3d770b2f0301.png){width=500}</a>
+::: {style="width: 33%;"} 
+<!-- LEFT -->
+<a href="https://pamdex.shinyapps.io/fishstat_trade_viz" target="_blank">![Click to check it out!](https://user-images.githubusercontent.com/59026485/187459824-b0ff3b42-0937-4f7e-8702-3d770b2f0301.png){width=300}</a>
 
+:::
+
+::: {style="width: 66%;"} 
+<!-- RIGHT -->
+- <a href="https://pamdex.shinyapps.io/fishstat_trade_viz" target="_blank">Interactive visualization</a> of FAO's fisheries and aquaculture international trade data
+  + Technology: R Shiny, Highcharts
+  + Data: FAO
+  + GitHub source <a href="https://github.com/pamdx/fishstat_trade_viz" target="_blank">available</a>
+
+:::
+
+<!-- FISH CONSUMPTION PATTERNS -->
+
+::: {style="width: 33%;"} 
+<!-- LEFT -->
+<a href="https://flourish-user-preview.com/12077046/iW2btaKlmBh4pejehwEi-6WLJks0XLBJHd7v30EC6BvgOBXGh09UljBPKbhcl4xl/" target="_blank">![Click to check it out!](https://user-images.githubusercontent.com/59026485/205102445-03fa3c9e-b701-4cb7-b895-30095c386da6.png){width=300}</a>
+
+:::
+
+::: {style="width: 66%;"} 
+<!-- RIGHT -->
 - <a href="https://flourish-user-preview.com/12077046/iW2btaKlmBh4pejehwEi-6WLJks0XLBJHd7v30EC6BvgOBXGh09UljBPKbhcl4xl/" target="_blank">Animated visualization</a> of the evolution of global fish consumption patterns over recent decades
+  + Technology: Flourish
+  + Data: FAO
+  
+:::
 
-<a href="https://flourish-user-preview.com/12077046/iW2btaKlmBh4pejehwEi-6WLJks0XLBJHd7v30EC6BvgOBXGh09UljBPKbhcl4xl/" target="_blank">![Click to check it out!](https://user-images.githubusercontent.com/59026485/205102445-03fa3c9e-b701-4cb7-b895-30095c386da6.png){width=500}</a>
+<!-- BAR CHART RACE -->
 
-- <a href="https://flourish-user-preview.com/11618730/297ssfVT8suqPqg8XFQeb2JLfzgZi4NWZWuYswoCyNq60NmJZnfvlmIdRxC8sFGL/" target="_blank">Animated visualization</a> of the history of the world's top capture fishery producers (featured in ICES ASC 2019 <a href="https://youtu.be/7Od1UhPvwjg?t=614" target="_blank">keynote presentation</a>, FAO's International Symposium on Fisheries Sustainability <a href="https://www.fao.org/about/meetings/sustainable-fisheries-symposium/presentations/fr/" target="_blank">keynote presentation</a>)
+::: {style="width: 33%;"} 
+<!-- LEFT -->
+<a href="https://flourish-user-preview.com/11618730/297ssfVT8suqPqg8XFQeb2JLfzgZi4NWZWuYswoCyNq60NmJZnfvlmIdRxC8sFGL/" target="_blank">![Click to check it out!](https://user-images.githubusercontent.com/59026485/204809496-171d0076-4e78-4500-b950-2489e82f1ec3.png){width=300}</a>
 
-<a href="https://flourish-user-preview.com/11618730/297ssfVT8suqPqg8XFQeb2JLfzgZi4NWZWuYswoCyNq60NmJZnfvlmIdRxC8sFGL/" target="_blank">![Click to check it out!](https://user-images.githubusercontent.com/59026485/204809496-171d0076-4e78-4500-b950-2489e82f1ec3.png){width=500}</a>
+:::
 
+::: {style="width: 66%;"} 
+<!-- RIGHT -->
+- <a href="https://flourish-user-preview.com/11618730/297ssfVT8suqPqg8XFQeb2JLfzgZi4NWZWuYswoCyNq60NmJZnfvlmIdRxC8sFGL/" target="_blank">Animated visualization</a> of the history of the world's top capture fishery producers 
+  + Technology: Flourish
+  + Data: FAO
+  + Featured in ICES ASC 2019 <a href="https://youtu.be/7Od1UhPvwjg?t=614" target="_blank">(keynote presentation)</a>, FAO's International Symposium on Fisheries Sustainability <a href="https://www.fao.org/about/meetings/sustainable-fisheries-symposium/presentations/fr/" target="_blank">(keynote presentation)</a>
+
+:::
+
+<!-- UHIE GIS -->
+
+::: {style="width: 33%;"} 
+<!-- LEFT -->
+<a href="https://pamdx.github.io/personal_site/documents/UHIE.pdf" target="_blank">![Click to check it out!](https://user-images.githubusercontent.com/59026485/204821929-1d502e9f-fabc-40ef-86b9-7cadb3255300.png){width=300}</a>
+
+:::
+
+::: {style="width: 66%;"} 
+<!-- RIGHT -->
 - <a href="https://pamdx.github.io/personal_site/documents/UHIE.pdf" target="_blank">GIS analysis</a> of the urban heat island effect in Brussels based on multispectral satellite imagery
+  + Technology: ArcGIS
+  + Data: LandSat 8
+  
+:::
 
-<a href="https://pamdx.github.io/personal_site/documents/UHIE.pdf" target="_blank">![Click to check it out!](https://user-images.githubusercontent.com/59026485/204821929-1d502e9f-fabc-40ef-86b9-7cadb3255300.png){width=500}</a>
+<!-- CC STUDY MAP -->
 
-- <a href="https://pamdx.github.io/personal_site/documents/cc_study.pdf" target="_blank">Map</a> showing the results of a <a href="https://www.fao.org/3/i9705en/i9705en.pdf#page=100" target="_blank">study</a> of climate change's effects on fisheries sustainability (<a href="https://www.gcca.eu/multimedia/gcca-cop25-adaptation-and-mitigation-strategies-changing-oceans" target="_blank">presented</a> at COP25)
+::: {style="width: 33%;"} 
+<!-- LEFT -->
+<a href="https://pamdx.github.io/personal_site/documents/cc_study.pdf" target="_blank">![Click to check it out!](https://user-images.githubusercontent.com/59026485/211545095-8c9aec91-b568-473b-a1c2-bedcbe40cbe3.png){width=300}</a>
 
-<a href="https://pamdx.github.io/personal_site/documents/cc_study.pdf" target="_blank">![Click to check it out!](https://user-images.githubusercontent.com/59026485/211545095-8c9aec91-b568-473b-a1c2-bedcbe40cbe3.png){width=500}</a>
+:::
 
-- More coming soon.
+::: {style="width: 66%;"} 
+<!-- RIGHT -->
+- <a href="https://pamdx.github.io/personal_site/documents/cc_study.pdf" target="_blank">Map</a> showing the results of a <a href="https://www.fao.org/3/i9705en/i9705en.pdf#page=100" target="_blank">study</a> of climate change's effects on fisheries sustainability
+  + Technology: QGIS
+  + Data: FAO
+  + <a href="https://www.gcca.eu/multimedia/gcca-cop25-adaptation-and-mitigation-strategies-changing-oceans" target="_blank">Presented</a> at COP25
+
+:::
+
+::::
 
 ## Contact
 
