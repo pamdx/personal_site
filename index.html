@@ -13,7 +13,7 @@
 
 <title>Pierre Maudoux</title>
 
-<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.22/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
@@ -29,7 +29,7 @@
        h6 {font-size: 12px;}
        code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
        pre:not([class]) { background-color: white }</style>
-<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<script src="site_libs/jqueryui-1.13.2/jquery-ui.min.js"></script>
 <link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
 <script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
@@ -108,8 +108,8 @@ pre code {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -117,16 +117,9 @@ pre code {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -277,7 +270,7 @@ best for printing.</li>
 <p>Below, you will find some examples of my work in data visualization,
 R programming, GIS analysis and more.</p>
 <div style="display: flex; flex-flow: row wrap;">
-<!-- TRADE VIZ -->
+<!-- TRADE/PROD VIZ -->
 <div style="width: 33%;">
 <!-- LEFT -->
 <p><a href="https://pamdex.shinyapps.io/fishstat_trade_viz" target="_blank"><img
@@ -287,36 +280,34 @@ width="300" alt="Click to check it out!" /></a></p>
 <div style="width: 66%;">
 <!-- RIGHT -->
 <ul>
-<li><a href="https://pamdex.shinyapps.io/fishstat_trade_viz" target="_blank">Interactive
-visualization</a> of FAO’s fisheries and aquaculture international trade
-data
+<li>Interactive visualizations of FAO’s fisheries and aquaculture data
 <ul>
+<li>Two versions:
+<a href="https://pamdex.shinyapps.io/fishstat_trade_viz" target="_blank">International
+trade data</a> /
+<a href="https://pamdex.shinyapps.io/fishstat_prod_viz" target="_blank">Global
+production data</a></li>
 <li>Technology: R Shiny, Highcharts</li>
 <li>Data: FAO</li>
+<li>To be featured on FAO’s website soon</li>
 <li>GitHub source
 <a href="https://github.com/pamdx/fishstat_trade_viz" target="_blank">available</a></li>
 </ul></li>
 </ul>
 </div>
-<!-- FISH CONSUMPTION PATTERNS -->
-<div style="width: 33%;">
-<!-- LEFT -->
-<p><a href="https://flourish-user-preview.com/12077046/iW2btaKlmBh4pejehwEi-6WLJks0XLBJHd7v30EC6BvgOBXGh09UljBPKbhcl4xl/" target="_blank"><img
-src="https://user-images.githubusercontent.com/59026485/205102445-03fa3c9e-b701-4cb7-b895-30095c386da6.png"
-width="300" alt="Click to check it out!" /></a></p>
-</div>
-<div style="width: 66%;">
-<!-- RIGHT -->
-<ul>
-<li><a href="https://flourish-user-preview.com/12077046/iW2btaKlmBh4pejehwEi-6WLJks0XLBJHd7v30EC6BvgOBXGh09UljBPKbhcl4xl/" target="_blank">Animated
-visualization</a> of the evolution of global fish consumption patterns
-over recent decades
-<ul>
-<li>Technology: Flourish</li>
-<li>Data: FAO</li>
-</ul></li>
-</ul>
-</div>
+<!-- <!-- FISH CONSUMPTION PATTERNS -->
+<p>–&gt;</p>
+<!-- ::: {style="width: 33%;"}  -->
+<!-- <!-- LEFT -->
+<p>–&gt;
+<!-- <a href="https://flourish-user-preview.com/12077046/iW2btaKlmBh4pejehwEi-6WLJks0XLBJHd7v30EC6BvgOBXGh09UljBPKbhcl4xl/" target="_blank">![Click to check it out!](https://user-images.githubusercontent.com/59026485/205102445-03fa3c9e-b701-4cb7-b895-30095c386da6.png){width=300}</a> --></p>
+<!-- ::: -->
+<!-- ::: {style="width: 66%;"}  -->
+<!-- <!-- RIGHT -->
+<p>–&gt;
+<!-- - <a href="https://flourish-user-preview.com/12077046/iW2btaKlmBh4pejehwEi-6WLJks0XLBJHd7v30EC6BvgOBXGh09UljBPKbhcl4xl/" target="_blank">Animated visualization</a> of the evolution of global fish consumption patterns over recent decades -->
+<!--   + Technology: Flourish --> <!--   + Data: FAO --></p>
+<!-- ::: -->
 <!-- BAR CHART RACE -->
 <div style="width: 33%;">
 <!-- LEFT -->
@@ -338,26 +329,8 @@ producers
 presentation)</a>, FAO’s International Symposium on Fisheries
 Sustainability
 <a href="https://www.fao.org/about/meetings/sustainable-fisheries-symposium/presentations/fr/" target="_blank">(keynote
-presentation)</a></li>
-</ul></li>
-</ul>
-</div>
-<!-- UHIE GIS -->
-<div style="width: 33%;">
-<!-- LEFT -->
-<p><a href="https://pamdx.github.io/personal_site/documents/UHIE.pdf" target="_blank"><img
-src="https://user-images.githubusercontent.com/59026485/204821929-1d502e9f-fabc-40ef-86b9-7cadb3255300.png"
-width="300" alt="Click to check it out!" /></a></p>
-</div>
-<div style="width: 66%;">
-<!-- RIGHT -->
-<ul>
-<li><a href="https://pamdx.github.io/personal_site/documents/UHIE.pdf" target="_blank">GIS
-analysis</a> of the urban heat island effect in Brussels based on
-multispectral satellite imagery
-<ul>
-<li>Technology: ArcGIS</li>
-<li>Data: LandSat 8</li>
+presentation)</a> and on FAO’s fisheries and aquaculture statistics
+<a href="https://www.fao.org/fishery/en/fishstat" target="_blank">website</a></li>
 </ul></li>
 </ul>
 </div>
@@ -380,6 +353,25 @@ of climate change’s effects on fisheries sustainability
 <li>Data: FAO</li>
 <li><a href="https://www.gcca.eu/multimedia/gcca-cop25-adaptation-and-mitigation-strategies-changing-oceans" target="_blank">Presented</a>
 at COP25</li>
+</ul></li>
+</ul>
+</div>
+<!-- UHIE GIS -->
+<div style="width: 33%;">
+<!-- LEFT -->
+<p><a href="https://pamdx.github.io/personal_site/documents/UHIE.pdf" target="_blank"><img
+src="https://user-images.githubusercontent.com/59026485/204821929-1d502e9f-fabc-40ef-86b9-7cadb3255300.png"
+width="300" alt="Click to check it out!" /></a></p>
+</div>
+<div style="width: 66%;">
+<!-- RIGHT -->
+<ul>
+<li><a href="https://pamdx.github.io/personal_site/documents/UHIE.pdf" target="_blank">GIS
+analysis</a> of the urban heat island effect in Brussels based on
+multispectral satellite imagery
+<ul>
+<li>Technology: ArcGIS</li>
+<li>Data: LandSat 8</li>
 </ul></li>
 </ul>
 </div>

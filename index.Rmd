@@ -28,7 +28,7 @@ Here, you can view my curriculum vitae, either directly in your browser or as a 
 Below, you will find some examples of my work in data visualization, R programming, GIS analysis and more.
 
 :::: {style="display: flex; flex-flow: row wrap;"}
-<!-- TRADE VIZ -->
+<!-- TRADE/PROD VIZ -->
 
 ::: {style="width: 33%;"} 
 <!-- LEFT -->
@@ -38,28 +38,30 @@ Below, you will find some examples of my work in data visualization, R programmi
 
 ::: {style="width: 66%;"} 
 <!-- RIGHT -->
-- <a href="https://pamdex.shinyapps.io/fishstat_trade_viz" target="_blank">Interactive visualization</a> of FAO's fisheries and aquaculture international trade data
+- Interactive visualizations of FAO's fisheries and aquaculture data
+  + Two versions: <a href="https://pamdex.shinyapps.io/fishstat_trade_viz" target="_blank">International trade data</a> / <a href="https://pamdex.shinyapps.io/fishstat_prod_viz" target="_blank">Global production data</a>
   + Technology: R Shiny, Highcharts
   + Data: FAO
+  + To be featured on FAO's website soon
   + GitHub source <a href="https://github.com/pamdx/fishstat_trade_viz" target="_blank">available</a>
 
 :::
 
-<!-- FISH CONSUMPTION PATTERNS -->
+<!-- <!-- FISH CONSUMPTION PATTERNS --> -->
 
-::: {style="width: 33%;"} 
-<!-- LEFT -->
-<a href="https://flourish-user-preview.com/12077046/iW2btaKlmBh4pejehwEi-6WLJks0XLBJHd7v30EC6BvgOBXGh09UljBPKbhcl4xl/" target="_blank">![Click to check it out!](https://user-images.githubusercontent.com/59026485/205102445-03fa3c9e-b701-4cb7-b895-30095c386da6.png){width=300}</a>
+<!-- ::: {style="width: 33%;"}  -->
+<!-- <!-- LEFT --> -->
+<!-- <a href="https://flourish-user-preview.com/12077046/iW2btaKlmBh4pejehwEi-6WLJks0XLBJHd7v30EC6BvgOBXGh09UljBPKbhcl4xl/" target="_blank">![Click to check it out!](https://user-images.githubusercontent.com/59026485/205102445-03fa3c9e-b701-4cb7-b895-30095c386da6.png){width=300}</a> -->
 
-:::
+<!-- ::: -->
 
-::: {style="width: 66%;"} 
-<!-- RIGHT -->
-- <a href="https://flourish-user-preview.com/12077046/iW2btaKlmBh4pejehwEi-6WLJks0XLBJHd7v30EC6BvgOBXGh09UljBPKbhcl4xl/" target="_blank">Animated visualization</a> of the evolution of global fish consumption patterns over recent decades
-  + Technology: Flourish
-  + Data: FAO
-  
-:::
+<!-- ::: {style="width: 66%;"}  -->
+<!-- <!-- RIGHT --> -->
+<!-- - <a href="https://flourish-user-preview.com/12077046/iW2btaKlmBh4pejehwEi-6WLJks0XLBJHd7v30EC6BvgOBXGh09UljBPKbhcl4xl/" target="_blank">Animated visualization</a> of the evolution of global fish consumption patterns over recent decades -->
+<!--   + Technology: Flourish -->
+<!--   + Data: FAO -->
+
+<!-- ::: -->
 
 <!-- BAR CHART RACE -->
 
@@ -74,24 +76,8 @@ Below, you will find some examples of my work in data visualization, R programmi
 - <a href="https://flourish-user-preview.com/11618730/297ssfVT8suqPqg8XFQeb2JLfzgZi4NWZWuYswoCyNq60NmJZnfvlmIdRxC8sFGL/" target="_blank">Animated visualization</a> of the history of the world's top capture fishery producers 
   + Technology: Flourish
   + Data: FAO
-  + Featured in ICES ASC 2019 <a href="https://youtu.be/7Od1UhPvwjg?t=614" target="_blank">(keynote presentation)</a>, FAO's International Symposium on Fisheries Sustainability <a href="https://www.fao.org/about/meetings/sustainable-fisheries-symposium/presentations/fr/" target="_blank">(keynote presentation)</a>
+  + Featured in ICES ASC 2019 <a href="https://youtu.be/7Od1UhPvwjg?t=614" target="_blank">(keynote presentation)</a>, FAO's International Symposium on Fisheries Sustainability <a href="https://www.fao.org/about/meetings/sustainable-fisheries-symposium/presentations/fr/" target="_blank">(keynote presentation)</a> and on FAO's fisheries and aquaculture statistics <a href="https://www.fao.org/fishery/en/fishstat" target="_blank">website</a>
 
-:::
-
-<!-- UHIE GIS -->
-
-::: {style="width: 33%;"} 
-<!-- LEFT -->
-<a href="https://pamdx.github.io/personal_site/documents/UHIE.pdf" target="_blank">![Click to check it out!](https://user-images.githubusercontent.com/59026485/204821929-1d502e9f-fabc-40ef-86b9-7cadb3255300.png){width=300}</a>
-
-:::
-
-::: {style="width: 66%;"} 
-<!-- RIGHT -->
-- <a href="https://pamdx.github.io/personal_site/documents/UHIE.pdf" target="_blank">GIS analysis</a> of the urban heat island effect in Brussels based on multispectral satellite imagery
-  + Technology: ArcGIS
-  + Data: LandSat 8
-  
 :::
 
 <!-- CC STUDY MAP -->
@@ -109,6 +95,22 @@ Below, you will find some examples of my work in data visualization, R programmi
   + Data: FAO
   + <a href="https://www.gcca.eu/multimedia/gcca-cop25-adaptation-and-mitigation-strategies-changing-oceans" target="_blank">Presented</a> at COP25
 
+:::
+
+<!-- UHIE GIS -->
+
+::: {style="width: 33%;"} 
+<!-- LEFT -->
+<a href="https://pamdx.github.io/personal_site/documents/UHIE.pdf" target="_blank">![Click to check it out!](https://user-images.githubusercontent.com/59026485/204821929-1d502e9f-fabc-40ef-86b9-7cadb3255300.png){width=300}</a>
+
+:::
+
+::: {style="width: 66%;"} 
+<!-- RIGHT -->
+- <a href="https://pamdx.github.io/personal_site/documents/UHIE.pdf" target="_blank">GIS analysis</a> of the urban heat island effect in Brussels based on multispectral satellite imagery
+  + Technology: ArcGIS
+  + Data: LandSat 8
+  
 :::
 
 ::::
