@@ -47,19 +47,20 @@ Below, you will find some examples of my work in data visualization, R programmi
 
 :::
 
-<!-- FISH CONSUMPTION PATTERNS -->
+<!-- ANIMATED MAP OF PRODUCTION -->
 
 ::: {style="width: 33%;"}
 <!-- LEFT -->
-<a href="https://flourish-user-preview.com/12077046/iW2btaKlmBh4pejehwEi-6WLJks0XLBJHd7v30EC6BvgOBXGh09UljBPKbhcl4xl/" target="_blank">![Click to check it out!](https://user-images.githubusercontent.com/59026485/205102445-03fa3c9e-b701-4cb7-b895-30095c386da6.png){width=300}</a>
+<a href="https://github.com/pamdx/personal_site/assets/59026485/a924f56a-84e8-454d-9610-746a0ff2fc8b" target="_blank">![Click to check it out!](https://github.com/pamdx/personal_site/assets/59026485/ed244ca8-c0d2-4d99-85eb-28e50b7f39cc){width=300}</a>
 
 :::
 
 ::: {style="width: 66%;"}
 <!-- RIGHT -->
-- <a href="https://flourish-user-preview.com/12077046/iW2btaKlmBh4pejehwEi-6WLJks0XLBJHd7v30EC6BvgOBXGh09UljBPKbhcl4xl/" target="_blank">Animated visualization</a> of the evolution of global fish consumption patterns over recent decades
-  + Technology: Flourish
+- <a href="https://github.com/pamdx/personal_site/assets/59026485/a924f56a-84e8-454d-9610-746a0ff2fc8b" target="_blank">Animated maps</a> of global fisheries and aquaculture production by country
+  + Technology: R (ggplot2, sf, gganimate packages)
   + Data: FAO
+  + <a href="https://x.com/pierremdx/status/1791485014510637556" target="_blank">Featured</a> on FAO's Fisheries and Aquaculture Division's Twitter/X account
 
 :::
 
