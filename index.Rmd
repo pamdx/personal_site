@@ -47,7 +47,7 @@ Below, you will find some examples of my work in data visualization, R programmi
 
 :::
 
-<!-- ANIMATED MAP OF PRODUCTION -->
+<!-- ANIMATED PRODUCTION MAPS -->
 
 ::: {style="width: 33%;"}
 <!-- LEFT -->
@@ -61,6 +61,7 @@ Below, you will find some examples of my work in data visualization, R programmi
   + Technology: R (ggplot2, sf, gganimate packages)
   + Data: FAO
   + <a href="https://x.com/pierremdx/status/1791485014510637556" target="_blank">Featured</a> on FAO's Fisheries and Aquaculture Division's Twitter/X account
+  + GitHub source <a href="https://github.com/pamdx/fao_website_animations" target="_blank">available</a>
 
 :::
 
