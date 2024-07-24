@@ -75,7 +75,7 @@ Below, you will find some examples of my work in data visualization, R programmi
 
 ::: {style="width: 66%;"} 
 <!-- RIGHT -->
-- <a href="https://flourish-user-preview.com/11618730/297ssfVT8suqPqg8XFQeb2JLfzgZi4NWZWuYswoCyNq60NmJZnfvlmIdRxC8sFGL/" target="_blank">Animated visualization</a> of the history of the world's top capture fishery producers 
+- <a href="https://flourish-user-preview.com/13392722/eDl1NLqVNh0-MI61bUe7wA_tmVdYdzbVoTMCsGmPRRJwqEuMrDX-2eW5RhqE_3XR/" target="_blank">Animated visualization</a> of the history of the world's top capture fishery producers 
   + Technology: Flourish
   + Data: FAO
   + Featured in ICES ASC 2019 <a href="https://youtu.be/7Od1UhPvwjg?t=614" target="_blank">(keynote presentation)</a>, FAO's International Symposium on Fisheries Sustainability <a href="https://www.fao.org/about/meetings/sustainable-fisheries-symposium/presentations/fr/" target="_blank">(keynote presentation)</a> and on FAO's fisheries and aquaculture statistics <a href="https://www.fao.org/fishery/en/fishstat" target="_blank">website</a>
