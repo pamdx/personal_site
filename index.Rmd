@@ -60,7 +60,7 @@ Below, you will find some examples of my work in data visualization, R programmi
 - <a href="https://github.com/pamdx/personal_site/assets/59026485/a924f56a-84e8-454d-9610-746a0ff2fc8b" target="_blank">Animated maps</a> of global fisheries and aquaculture production by country
   + Technology: R (ggplot2, sf, gganimate packages)
   + Data: FAO
-  + <a href="https://x.com/pierremdx/status/1791485014510637556" target="_blank">Featured</a> on FAO's Fisheries and Aquaculture Division's Twitter/X account
+  + Featured (e.g. <a href="https://x.com/FAOfish/status/1757338321309585506" target="_blank">here</a> and <a href="https://x.com/FAOfish/status/1759510131794948287" target="_blank">here</a>) on FAO's Fisheries and Aquaculture Division's Twitter/X account
   + GitHub source <a href="https://github.com/pamdx/fao_website_animations" target="_blank">available</a>
 
 :::
@@ -78,7 +78,7 @@ Below, you will find some examples of my work in data visualization, R programmi
 - <a href="https://flourish-user-preview.com/13392722/eDl1NLqVNh0-MI61bUe7wA_tmVdYdzbVoTMCsGmPRRJwqEuMrDX-2eW5RhqE_3XR/" target="_blank">Animated visualization</a> of the history of the world's top capture fishery producers 
   + Technology: Flourish
   + Data: FAO
-  + Featured in ICES ASC 2019 <a href="https://youtu.be/7Od1UhPvwjg?t=614" target="_blank">(keynote presentation)</a>, FAO's International Symposium on Fisheries Sustainability <a href="https://www.fao.org/about/meetings/sustainable-fisheries-symposium/presentations/fr/" target="_blank">(keynote presentation)</a> and on FAO's fisheries and aquaculture statistics <a href="https://www.fao.org/fishery/en/fishstat" target="_blank">website</a>
+  + Featured in ICES ASC 2019 <a href="https://youtu.be/7Od1UhPvwjg?t=614" target="_blank">(keynote presentation)</a>, FAO's International Symposium on Fisheries Sustainability <a href="https://www.fao.org/about/meetings/sustainable-fisheries-symposium/presentations/fr/" target="_blank">(keynote presentation)</a> and on FAO's fisheries and aquaculture statistics <a href="https://www.fao.org/fishery/en/fishstat" target="_blank">website</a> and <a href="https://x.com/FAOfish/status/1776247669813616714" target="_blank">social media</a>
 
 :::
 
