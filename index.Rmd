@@ -51,13 +51,13 @@ Below, you will find some examples of my work in data visualization, R programmi
 
 ::: {style="width: 33%;"}
 <!-- LEFT -->
-<a href="https://github.com/pamdx/personal_site/assets/59026485/a924f56a-84e8-454d-9610-746a0ff2fc8b" target="_blank">![Click to check it out!](https://github.com/pamdx/personal_site/assets/59026485/ed244ca8-c0d2-4d99-85eb-28e50b7f39cc){width=300}</a>
+<a href="https://github.com/user-attachments/assets/6597a81f-f4d1-409f-ae30-58434ccfc3dd" target="_blank">![Click to check it out!](https://github.com/pamdx/personal_site/assets/59026485/ed244ca8-c0d2-4d99-85eb-28e50b7f39cc){width=300}</a>
 
 :::
 
 ::: {style="width: 66%;"}
 <!-- RIGHT -->
-- <a href="https://github.com/pamdx/personal_site/assets/59026485/a924f56a-84e8-454d-9610-746a0ff2fc8b" target="_blank">Animated maps</a> of global fisheries and aquaculture production by country
+- <a href="https://github.com/user-attachments/assets/6597a81f-f4d1-409f-ae30-58434ccfc3dd" target="_blank">Animated maps</a> of global fisheries and aquaculture production by country
   + Technology: R (ggplot2, sf, gganimate packages)
   + Data: FAO
   + Featured (e.g. <a href="https://x.com/FAOfish/status/1757338321309585506" target="_blank">here</a> and <a href="https://x.com/FAOfish/status/1759510131794948287" target="_blank">here</a>) on FAO's Fisheries and Aquaculture Division's Twitter/X account
@@ -69,13 +69,13 @@ Below, you will find some examples of my work in data visualization, R programmi
 
 ::: {style="width: 33%;"} 
 <!-- LEFT -->
-<a href="https://flourish-user-preview.com/11618730/297ssfVT8suqPqg8XFQeb2JLfzgZi4NWZWuYswoCyNq60NmJZnfvlmIdRxC8sFGL/" target="_blank">![Click to check it out!](https://github.com/user-attachments/assets/f16d59d3-f731-4f26-9f28-d541436fa7f2){width=300}</a>
+<a href="https://flourish-user-preview.com/23466813/pwFq84Jqf0vDWVwzE2TzsDuYvHKBbl7GWGF2SoHxqtUIkJcmqeImxsrMuZiITbaH/" target="_blank">![Click to check it out!](https://github.com/user-attachments/assets/f16d59d3-f731-4f26-9f28-d541436fa7f2){width=300}</a>
 
 :::
 
 ::: {style="width: 66%;"} 
 <!-- RIGHT -->
-- <a href="https://flourish-user-preview.com/13392722/eDl1NLqVNh0-MI61bUe7wA_tmVdYdzbVoTMCsGmPRRJwqEuMrDX-2eW5RhqE_3XR/" target="_blank">Animated visualization</a> of the history of the world's top capture fishery producers 
+- <a href="https://flourish-user-preview.com/23466813/pwFq84Jqf0vDWVwzE2TzsDuYvHKBbl7GWGF2SoHxqtUIkJcmqeImxsrMuZiITbaH/" target="_blank">Animated visualization</a> of the history of the world's top capture fishery producers 
   + Technology: Flourish
   + Data: FAO
   + Featured in ICES ASC 2019 <a href="https://youtu.be/7Od1UhPvwjg?t=614" target="_blank">(keynote presentation)</a>, FAO's International Symposium on Fisheries Sustainability <a href="https://www.fao.org/about/meetings/sustainable-fisheries-symposium/presentations/fr/" target="_blank">(keynote presentation)</a> and on FAO's fisheries and aquaculture statistics <a href="https://www.fao.org/fishery/en/fishstat" target="_blank">website</a> and <a href="https://x.com/FAOfish/status/1776247669813616714" target="_blank">social media</a>
@@ -109,7 +109,7 @@ Below, you will find some examples of my work in data visualization, R programmi
 
 ::: {style="width: 66%;"} 
 <!-- RIGHT -->
-- <a href="https://pamdx.github.io/personal_site/documents/UHIE.pdf" target="_blank">GIS analysis</a> of the urban heat island effect in Brussels based on multispectral satellite imagery
+- <a href="https://pamdx.github.io/personal_site/documents/UHIE.pdf" target="_blank">Raster analysis</a> of the urban heat island effect in Brussels based on multispectral satellite imagery
   + Technology: ArcGIS
   + Data: LandSat 8
   
@@ -123,6 +123,6 @@ Below, you will find some examples of my work in data visualization, R programmi
 
 **LinkedIn** <a href="https://www.linkedin.com/in/pamaudoux/">pamaudoux </a>
 
-**twitter:** <a href="https://twitter.com/pierremdx">pierremdx </a>
+<!-- **twitter:** <a href="https://twitter.com/pierremdx">pierremdx </a> -->
    
 **github:** <a href="https://github.com/pamdx" target="_blank">pamdx </a>
