@@ -42,7 +42,6 @@ Below, you will find some examples of my work in data visualization, R programmi
   + Two versions: <a href="https://pamdex.shinyapps.io/fishstat_trade_viz" target="_blank">International trade data</a> / <a href="https://pamdex.shinyapps.io/fishstat_prod_viz" target="_blank">Global production data</a>
   + Technology: R Shiny, Highcharts
   + Data: FAO
-  + To be featured on FAO's website soon
   + GitHub source <a href="https://github.com/pamdx/fishstat_trade_viz" target="_blank">available</a>
 
 :::
