@@ -38,10 +38,10 @@ Below, you will find some examples of my work in data visualization, R programmi
 
 ::: {style="width: 66%;"} 
 <!-- RIGHT -->
-- Interactive visualizations of FAO's fisheries and aquaculture data
-  + Two versions: <a href="https://pamdex.shinyapps.io/fishstat_trade_viz" target="_blank">International trade data</a> / <a href="https://pamdex.shinyapps.io/fishstat_prod_viz" target="_blank">Global production data</a>
+- <a href="https://foodandagricultureorganization.shinyapps.io/fishstat_viz_portal/" target="_blank">Interactive visualizations</a> of FAO's fisheries and aquaculture data
   + Technology: R Shiny, Highcharts
   + Data: FAO
+  + Featured in FAO's COFI36 (presented by me throughout the conference week) and COFI37 (on free-to-use touchscreens for attendees)
   + GitHub source <a href="https://github.com/pamdx/fishstat_trade_viz" target="_blank">available</a>
 
 :::
